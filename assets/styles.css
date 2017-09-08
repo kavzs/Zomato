@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+}
+
+#map{
+	height: 90vh;
+/*	border:1px red solid;*/
+}
+
+.custom-popup{
+	border:thin salmon solid;
+}
+
+/*//changing the modal box size*/
+.modal-dialog{
+	max-width: 520px;
+}
+
+
+.modal-body img{
+	padding: 0 0.5em 0.5em 0;
+	width: 10em;
+}
